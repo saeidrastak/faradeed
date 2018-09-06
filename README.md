@@ -6,7 +6,22 @@
   - Connect to Enterprise RDBMSs like Oracle, PostgreSQL, SqlServer, MySQL
   - Create Query On Data Sources
   - Create Dashboard Widget On DataSets
-  - Create Dashboards 
+  - Create Dashboards
+    - Support Many Widget Type 
+      - Bar Charts
+      - Line Charts
+      - Google Map (geo-Coordinate Maps with marker)
+      - Vector Maps
+      - Pie/Doughnut Charts
+      - Funnel/Pyramid Charts
+      - Card
+      - Data Grid
+      - Pivot Grid
+      - Stacked Charts
+    - Drilldown Support
+    - Support Interaction between widget
+    - Dashboard Filters
+    - ...
   - Create Reposrts with Stimulsoft Reports
   - User Management, RBAC Security 
   - Spring-Based Project 
@@ -26,3 +41,17 @@
 ![Create Dataset](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-dataset1.png)
 ![Create Dataset](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-dataset2.png)
 ![Create Dataset](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-dataset3.png)
+
+- Create Dashboard <br />
+![Sample Dashboard](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/sample-dashboard.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget1.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget2.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget3.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget4.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget5.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget6.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget7.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget8.png)
+![Create Widget](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-widget9.png)
+
+
