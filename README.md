@@ -5,6 +5,10 @@
   - Create Dashboard Widget On DataSets
   - Create Dashboards 
   - Create Reposrts with Stimulsoft Reports
-  - User Management, RBAC Security ...
+  - User Management, RBAC Security 
   - ...
   
+  
+# Some of Functionalities
+
+![Create DataSource](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
