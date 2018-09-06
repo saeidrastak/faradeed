@@ -6,6 +6,9 @@
   - Create Dashboards 
   - Create Reposrts with Stimulsoft Reports
   - User Management, RBAC Security 
+  - Spring-Based Project 
+  - Angular 4+ UI
+  - Separate Projects for UI & Backend (Rest-Based Frontend Project)
   - ...
   
   
