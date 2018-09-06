@@ -19,11 +19,12 @@
       - Pivot Grid
       - Stacked Charts
     - Drilldown Support
-    - Support Interaction between widget
+    - Support Interaction between widgets
     - Dashboard Filters
+    - Cache Dataset Results
     - ...
   - Create Reposrts with Stimulsoft Reports
-  - User Management, RBAC Security 
+  - User Management, RBAC Security , Token Based Authentication (JWT)
   - Spring-Based Project 
   - Angular 4+ UI
   - Separate Projects for UI & Backend (Rest-Based Frontend Project)
