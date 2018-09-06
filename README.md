@@ -1,5 +1,8 @@
 # Faradeed - Business Monitoring Solution
 
+  - Multi-Tanent Artitecture
+  - Store All Artifacts in Directory-Based Structure
+  - I18N Support
   - Connect to Enterprise RDBMSs like Oracle, PostgreSQL, SqlServer, MySQL
   - Create Query On Data Sources
   - Create Dashboard Widget On DataSets
@@ -13,5 +16,7 @@
   
   
 # Some of Functionalities
+- Directory Structure <br />
+![Create DataSource](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/directory-structure.png)
 
 ![Create DataSource](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
