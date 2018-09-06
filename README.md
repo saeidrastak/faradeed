@@ -17,6 +17,12 @@
   
 # Some of Functionalities
 - Directory Structure <br />
-![Create DataSource](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/directory-structure.png)
+![Directory Structure](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/directory-structure.png)
 
-![Create DataSource](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+- Create Data Source <br />
+![Create DataSource](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-datasource.png)
+
+- Create Data Set <br />
+![Create Dataset](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-dataset1.png)
+![Create Dataset](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-dataset2.png)
+![Create Dataset](https://raw.githubusercontent.com/saeidrastak/faradeed/master/images/create-dataset3.png)
