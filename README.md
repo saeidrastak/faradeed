@@ -17,6 +17,6 @@
   
 # Some of Functionalities
 - Directory Structure
-![Create DataSource](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Create DataSource](https://raw.githubusercontent.com/saeidrastak/faradeed/branch/images/directory-structure.png)
 
 ![Create DataSource](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
